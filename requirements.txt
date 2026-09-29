@@ -1,0 +1,13 @@
+streamlit>=1.38
+langchain>=0.3
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+langchain-openai>=0.2
+langgraph>=1.0
+langchain-anthropic>=0.2
+langchain-chroma>=0.1.4
+chromadb>=0.5
+pypdf>=4.0
+docx2txt>=0.8
+tiktoken>=0.7
+pytest>=8.0
